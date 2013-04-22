@@ -1,0 +1,9 @@
+#motivate{
+    background:hsl(0, 5%, 92%);
+    font-size:1.25em;
+    width: 90%;
+    position: absolute;
+    text-align: center;
+    border-radius:0.25em;
+    display: none;
+}
